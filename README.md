@@ -98,10 +98,9 @@ disp("Done: smooth demodulated signals.");
 
 Output Waveform
 
-<img width="1041" height="565" alt="image" src="https://github.com/user-attachments/assets/4ade882a-506c-4932-b83a-5776bf992ab1" />
+![WhatsApp Image 2025-12-04 at 10 41 52_aa072b22](https://github.com/user-attachments/assets/01c73f60-b6c7-4d25-a384-833ca69e2056)
 
-<img width="1042" height="571" alt="image" src="https://github.com/user-attachments/assets/fee77fef-1989-429e-ba7b-c304358f12c0" />
-
+![WhatsApp Image 2025-12-04 at 10 44 18_af2c6b4d](https://github.com/user-attachments/assets/f1debe26-5fc8-4e5a-bafe-2a1463e09b27)
 
 Tabulation
 

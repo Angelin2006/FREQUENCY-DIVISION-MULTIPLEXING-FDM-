@@ -98,15 +98,17 @@ disp("Done: smooth demodulated signals.");
 
 Output Waveform
 
-![WhatsApp Image 2025-12-04 at 10 41 52_aa072b22](https://github.com/user-attachments/assets/01c73f60-b6c7-4d25-a384-833ca69e2056)
+<img width="1041" height="565" alt="Screenshot 2025-12-01 121902" src="https://github.com/user-attachments/assets/a44dc76b-b089-41d7-a11e-aa43e534cabd" />
 
-![WhatsApp Image 2025-12-04 at 10 44 18_af2c6b4d](https://github.com/user-attachments/assets/f1debe26-5fc8-4e5a-bafe-2a1463e09b27)
+<img width="1042" height="571" alt="Screenshot 2025-12-01 121928" src="https://github.com/user-attachments/assets/87601932-5824-4d69-bd0a-fe90ec56f423" />
+
+<img width="1036" height="600" alt="Screenshot 2025-12-01 121946" src="https://github.com/user-attachments/assets/723d78a3-fd4d-435f-8a8d-3a7babc8fd24" />
 
 Tabulation
 
-![WhatsApp Image 2025-12-01 at 09 58 53_486fff6c](https://github.com/user-attachments/assets/aebef619-0a66-4447-8a5a-e26d15aeb47c)
+![WhatsApp Image 2025-12-04 at 10 41 52_aa072b22](https://github.com/user-attachments/assets/01c73f60-b6c7-4d25-a384-833ca69e2056)
 
-![WhatsApp Image 2025-12-01 at 09 58 53_e74cb05b](https://github.com/user-attachments/assets/16af26b4-dd43-4928-944e-6c6b33c6e9ab)
+![WhatsApp Image 2025-12-04 at 10 44 18_af2c6b4d](https://github.com/user-attachments/assets/f1debe26-5fc8-4e5a-bafe-2a1463e09b27)
 
 Result:
 The Frequency Division Multiplexing (FDM) and Demultiplexing of six different message signals were successfully implemented using SCILAB.All six message signals were modulated with distinct carrier frequencies and combined to form a single multiplexed signal. Upon demodulation and low-pass filtering, each original message signal was accurately recovered, verifying the correct working of the FDM and demultiplexing process.
